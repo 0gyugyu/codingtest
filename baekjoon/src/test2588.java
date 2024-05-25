@@ -12,5 +12,12 @@ public class test2588 {
         System.out.println(a * (b.charAt(0) - '0'));
 
         System.out.println(a * Integer.parseInt(b));
+
+//        String str1 = sc.next();
+//        String str2 = sc.next();
+//
+//        int var1 = Integer.parseInt(str1);
+//        int var2 = Integer.parseInt(str2);
+//        System.out.print(var1 * var2);
     }
 }
